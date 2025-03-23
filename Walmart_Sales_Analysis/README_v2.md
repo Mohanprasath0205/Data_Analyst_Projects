@@ -1,5 +1,6 @@
 # 🛒 Walmart Sales Analysis 📊  
 
+![240_F_630274232_kbTSw7CNIC2N1s3AzhggRSS1v9YTyg53](https://github.com/user-attachments/assets/cd6d58d8-efba-48dc-a2ae-c459c5b6fd9f)
 
 
 
