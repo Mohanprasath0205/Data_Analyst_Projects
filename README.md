@@ -13,7 +13,7 @@ This repository contains data analysis projects that I have worked on using **SQ
 - **Objective:** Analyzed real-time 2024 Indian election data to understand voting patterns, winning trends, and state-wise results.  
 
 ### 3️⃣ Walmart Sales Analysis  
-- **Tools Used:** SQL, Power BI  
+- **Tools Used:** SQL, Python
 - **Objective:** Analyzed Walmart’s sales data to identify trends, seasonal patterns, and revenue drivers.  
 
 ### 4️⃣ Call Centre Trends & Customer Retention Analysis (PwC Power BI Virtual Internship)  
