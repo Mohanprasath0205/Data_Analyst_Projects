@@ -1,0 +1,28 @@
+# ☕ Coffee Shop Sales Analysis
+
+## 📌 Overview  
+This project analyzes sales data from a coffee shop to optimize pricing, product offerings, and revenue growth.
+
+## 🛠️ Tools Used  
+- Power BI (for visualization)  
+- SQL (for data querying)  
+- Excel (for data cleaning)  
+
+## 📊 Key Insights  
+- Identified peak sales hours and best-selling products.  
+- Analyzed customer purchasing trends to improve inventory management.  
+- Recommended to increase the sales in weekdays as compared to weekends.  
+
+## 📂 Files Included  
+- `coffee_sales_data.xlsx` → Raw sales data  
+- `coffee_shop_dashboard.pbix` → Power BI dashboard  
+- `coffee_analysis.sql` → SQL queries used for analysis  
+
+## 📸 Dashboard Preview  
+Here is a Power BI dashboard visualization for coffee shop sales:  
+
+
+         
+## 🚀 Future Enhancements  
+- Integrate customer feedback analysis.  
+- Predict future sales using machine learning.
