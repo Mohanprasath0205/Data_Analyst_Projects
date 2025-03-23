@@ -9,7 +9,7 @@ This repository contains data analysis projects that I have worked on using **SQ
 - **Objective:** Analyzed sales data from a coffee shop to optimize pricing and product offerings.  
 
 ### 2️⃣ India Election Result Analysis 2024  
-- **Tools Used:** SQL, Power BI  
+- **Tools Used:** SQL, Excel
 - **Objective:** Analyzed real-time 2024 Indian election data to understand voting patterns, winning trends, and state-wise results.  
 
 ### 3️⃣ Walmart Sales Analysis  
