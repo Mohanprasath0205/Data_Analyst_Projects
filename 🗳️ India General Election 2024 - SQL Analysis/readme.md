@@ -1,4 +1,6 @@
 # 🗳️ India General Election 2024 - SQL Analysis  
+![-1x-1](https://github.com/user-attachments/assets/60fa75ac-ccf5-488c-be6c-142f81d1185a)
+
 
 ## 📌 Project Overview  
 The **2024 Indian General Election** was one of the largest democratic events, with millions of voters across multiple states. This project aims to analyze the election results using **SQL** to gain insights into party performance, candidate success, and vote distributions.  
