@@ -88,9 +88,11 @@ The project uses the following CSV files:
 ---
 
 ## 🏗️ Entity Relationship Diagram (ERD)  
-Below is the ERD used in the project:  
+Below is the ERD that i have created for this project:
 
-![ERD Diagram](path_to_your_ERD_image.png)  
+![erd](https://github.com/user-attachments/assets/88791e63-02d5-4c1c-85ab-efc3953225fb)
+
+
 
 ---
 
