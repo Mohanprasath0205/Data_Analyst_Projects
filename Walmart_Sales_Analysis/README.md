@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview  
 This project is an **end-to-end data analysis solution** designed to extract critical business insights from Walmart sales data.  
-The goal was to understand **customer purchasing behavior, identify revenue trends, and optimize business strategies** using **Python** for data cleaning, **SQL** for advanced querying, and **Power BI** for visualization.  
+The goal was to understand **customer purchasing behavior, identify revenue trends, and optimize business strategies** using **Python** for data cleaning,and  **SQL** for advanced querying.
 
 ---
 
