@@ -103,6 +103,9 @@ If you’d like to explore my dashboard and interact with the visuals, click her
 
 
 ---
+# Second Task : Customer Retention
+
+This dashboard was developed in response to a request from the telecom's Retention Manager to analyze key metrics related to customer loyalty and retention. It visually presents data to predict customer churn and identifies actionable strategies to enhance customer retention.
 
 
 
