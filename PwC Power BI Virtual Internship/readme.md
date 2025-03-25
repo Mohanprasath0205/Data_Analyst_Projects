@@ -258,7 +258,7 @@ Here you go 👇
 
 ---
 
-## ** Business Impact**
+##  Business Impact 
  **Improved Employee Retention** – Addressing turnover rates among women leads to lower attrition and reduced hiring costs.  
 
  **Enhanced Workplace Diversity** – A more inclusive workforce fosters innovation and better decision-making.  
