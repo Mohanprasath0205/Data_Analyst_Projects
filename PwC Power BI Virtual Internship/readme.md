@@ -66,6 +66,41 @@ Measures
 my final dashboard for first task:
 ![image](https://github.com/user-attachments/assets/a551e3d4-9b3c-4216-b91c-0cacd24f198e)
 
+### 📌 Key Findings & Solutions  
+
+### 1️⃣ Call Answer Rate Needs Improvement  
+- **81.08% of calls are answered**, but **18.92% are abandoned** before reaching an agent.  
+- **Solution:** Reduce abandoned calls by optimizing **agent availability** and **call routing**.  
+
+### 2️⃣ Resolution Rate is Below Expectation  
+- **Only 72.92% of calls are resolved**, meaning **27.08% of customer queries remain unresolved**.  
+- **Solution:** Improve **agent training** and provide **better resources** to resolve customer issues faster.  
+
+### 3️⃣ Customer Satisfaction Needs a Boost  
+- **Average satisfaction score is 3.40/5**, indicating a moderate level of satisfaction.  
+- **Solution:** Identify **top-performing agents** and use their best practices to improve team performance.  
+
+### 4️⃣ Peak Call Volume Requires Better Staffing  
+- **Call volumes fluctuate** across months, leading to **higher unanswered calls in some months**.  
+- **Solution:** Allocate **more staff during peak call hours** to handle demand effectively.  
+
+### 5️⃣ Agent Performance Insights  
+- Some agents have **faster response times** and **higher satisfaction rates** (e.g., **Jim, Greg**).  
+- **Solution:** Use performance data to provide **coaching for low performers** and **reward high performers**.  
+
+### 6️⃣ Average Speed of Answer is 67.52 Seconds  
+- Some agents respond **faster than others** (e.g., **Becky - 65.33s, Greg - 68.44s**).  
+- **Solution:** Reduce waiting time by improving **queue management** and **automating simple queries**.  
+
+---
+
+## 🚀 Business Impact  
+✅ **Better customer service** by reducing unanswered and unresolved calls.  
+✅ **Higher customer satisfaction** through improved agent efficiency.  
+✅ **Increased operational efficiency** by optimizing workforce planning.  
+
+---
+
 
 
 ---
