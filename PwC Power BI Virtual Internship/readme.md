@@ -27,7 +27,7 @@ This simple exercise helped me **set my intent for the internship** and made me 
 
 ---
 
-# First Task: 📞 Call Centre Trends Analysis – PhoneNow (PwC Power BI Virtual Internship)
+# Task 2: 📞 Call Centre Trends Analysis – PhoneNow (PwC Power BI Virtual Internship)
 
 As part of the **PwC Power BI Virtual Internship**, my first task involved **designing a performance dashboard** for **PhoneNow**, a telecommunications company. The objective was to create a **clear, insightful, and user-friendly** dashboard that would help managers **analyze key trends and make data-driven decisions**.
 <img width="715" alt="Screen Shot 2021-06-15 at 5 23 06 PM" src="https://github.com/user-attachments/assets/9d3f7b94-64e6-4ea7-b321-328a593d1ae1" />
@@ -103,7 +103,7 @@ If you’d like to explore my dashboard and interact with the visuals, click her
 
 
 ---
-# Second Task : Customer Retention
+# TASK 3 : Customer Retention
 
 This dashboard was developed in response to a request from the telecom's Retention Manager to analyze key metrics related to customer loyalty and retention. It visually presents data to predict customer churn and identifies actionable strategies to enhance customer retention.
 
@@ -114,10 +114,87 @@ Here is the Dashboard you go 👇
 
 ![image](https://github.com/user-attachments/assets/1099f149-2eb9-419b-86ab-f873e84771fd)
 
+# Key Findings, Solutions, and Business Impact  
 
-
+## Key Findings:  
+1. **High Churn Rate (26.54%)**  
+   - A significant portion of customers are leaving, affecting revenue and growth.  
+2. **Payment Method Issues**  
+   - Customers using electronic checks have a higher churn rate.  
+3. **Contract Type Influence**  
+   - Month-to-month contracts show the highest churn, while long-term contracts have lower churn.  
+4. **Internet Service Preference**  
+   - Fiber optic users show a **higher churn rate (41%)** than DSL users.  
+5. **Subscription Duration Impact**  
+   - Customers subscribed for less than a year tend to churn more frequently.  
+6. **Admin & Tech Ticket Volume (2955 & 3632 respectively)**  
+   - High unresolved service requests may contribute to churn.  
 
 ---
+
+## Proposed Solutions:  
+1. **Offer Incentives for Longer Contracts**  
+   - Discounts or rewards for customers opting for annual plans to encourage retention.  
+2. **Enhance Customer Support**  
+   - Prioritize resolving admin & tech tickets faster to improve service satisfaction.  
+3. **Improve Fiber Optic Service Reliability**  
+   - Invest in better infrastructure to address performance complaints.  
+4. **Tackle Payment-Related Churn**  
+   - Promote credit card payments by offering cashback or discounts to reduce electronic check churn.  
+5. **Engage High-Risk Customers Proactively**  
+   - Identify at-risk customers early using data insights and offer personalized retention plans.  
+
+---
+
+## Business Impact:  
+✔ **Increased Customer Retention**  
+   - Implementing the above strategies could significantly lower churn, ensuring a stable revenue stream.  
+✔ **Revenue Growth**  
+   - Reducing churn will lead to higher customer lifetime value (CLV), increasing overall profits.  
+✔ **Better Service Perception**  
+   - Faster resolution of service requests and improved infrastructure will boost brand reputation.  
+✔ **Optimized Revenue Collection**  
+   - Encouraging secure and stable payment methods (credit cards) will reduce churn from billing issues.  
+
+By leveraging these insights, the company can **transform a reactionary churn strategy into a proactive retention plan, securing long-term customer loyalty and business success.**  
+
+---
+# Task-4: Diversity & Inclusion  
+
+## Problem Statement  
+
+The objective of this task is to:  
+
+- Define key performance indicators (KPIs) related to hiring, promotion, performance, and turnover.  
+- Develop visualizations to track diversity and inclusion progress.  
+- Identify possible root causes behind slow progress in achieving diversity goals.  
+
+Currently, the organization only engages with employees after they have already left, making the approach reactive rather than proactive. To improve retention, it is essential to identify at-risk employees in advance.  
+
+### Key Metrics for Analysis:  
+
+- Total number of male employees  
+- Total number of female employees  
+- Total number of employees who left  
+- Percentage of employees promoted in FY21  
+- Percentage of women promoted  
+- Percentage of male hires  
+- Percentage of female hires  
+- Turnover rate  
+- Average performance rating of male employees  
+- Average performance rating of female employees  
+
+## Workflow  
+
+### **Step 1: Data Upload**  
+
+The dataset used for this analysis was sourced from **PWC Switzerland** and can be accessed via their official website: **[Dataset Link]**  
+
+### **Step 2: Data Cleaning**  
+
+The data was cleaned and transformed using **Power Query** before being loaded into **Microsoft Power BI Desktop** for further modeling and visualization.  
+
+
 
 
 
