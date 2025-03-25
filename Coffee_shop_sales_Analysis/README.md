@@ -2,14 +2,15 @@
 
 ## 📌 **Project Overview**  
 This project dives into **coffee shop sales data** to uncover insights that help **optimize pricing, improve product offerings, and drive revenue growth**.  
+
 Using **Power BI, SQL, and Excel**, we explore key trends that can enhance business decisions.  
 
 ---
 
 ## 🛠️ **Tools & Technologies**  
-✅ **Power BI** – Data visualization & dashboards  
-✅ **SQL** – Data querying & extraction  
-✅ **Excel** – Data cleaning & transformation  
+ **Power BI** – Data visualization & dashboards  
+ **SQL** – Data querying & extraction  
+ **Excel** – Data cleaning & transformation  
 
 ---
 
