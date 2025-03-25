@@ -97,9 +97,9 @@ If you’d like to explore my dashboard and interact with the visuals, click her
 ---
 
 ## 🚀 Business Impact  
-✅ **Better customer service** by reducing unanswered and unresolved calls.  
-✅ **Higher customer satisfaction** through improved agent efficiency.  
-✅ **Increased operational efficiency** by optimizing workforce planning.  
+ **Better customer service** by reducing unanswered and unresolved calls.  
+ **Higher customer satisfaction** through improved agent efficiency.  
+ **Increased operational efficiency** by optimizing workforce planning.  
 
 
 ---
@@ -193,6 +193,85 @@ The dataset used for this analysis was sourced from **PWC Switzerland** and can 
 ### **Step 2: Data Cleaning**  
 
 The data was cleaned and transformed using **Power Query** before being loaded into **Microsoft Power BI Desktop** for further modeling and visualization.  
+
+### **Step 3: Creating Dashboard:** 
+
+Here you go 👇
+
+![image](https://github.com/user-attachments/assets/8908165c-701b-41e6-a5b4-0c18dc765964)
+
+![image](https://github.com/user-attachments/assets/ee891d88-bb1d-4714-a382-e41ff2301a03)
+
+#  Diversity & Inclusion Dashboard
+
+## **📌 Key Findings**
+1. **Gender Imbalance in Hiring**
+   - 59% of hires were male, while only 41% were female.
+   - Hiring rates for female candidates decrease at senior management levels.
+
+2. **Promotion Disparities**
+   - Fewer women are promoted compared to men at all job levels.
+   - Senior-level promotions are male-dominated.
+
+3. **Higher Turnover Among Women**
+   - Female turnover rate (11%) is slightly higher than males.
+   - Women leave at a higher rate in executive and managerial roles.
+
+4. **Performance Ratings**
+   - The average performance rating for women (2.42) is slightly higher than for men (2.41).
+   - However, promotions don’t align proportionally with performance ratings.
+
+5. **Executive Gender Balance Gap**
+   - Executive roles remain male-dominated, with a lower percentage of women in leadership.
+   - Executive hires and promotions in FY21 were 100% male.
+
+6. **Age Distribution Insights**
+   - The majority of employees belong to the 30-40 age group.
+   - Younger employees (20-30) have lower representation in leadership roles.
+
+---
+
+## **💡 Solutions & Recommendations**
+1. **Diversity-Focused Hiring Strategies**
+   - Implement gender-balanced hiring practices, especially at leadership levels.
+   - Conduct structured hiring panels to eliminate bias.
+
+2. **Leadership Development for Women**
+   - Introduce mentorship programs to prepare women for leadership roles.
+   - Provide leadership training and sponsorship programs for high-potential female employees.
+
+3. **Reducing Female Turnover**
+   - Conduct exit interviews to understand why women leave at higher rates.
+   - Improve workplace policies, such as flexible work arrangements and parental leave benefits.
+
+4. **Promotion Transparency & Fairness**
+   - Ensure promotion criteria are performance-driven and unbiased.
+   - Encourage leadership to sponsor and advocate for high-performing women.
+
+5. **Balanced Executive Hiring**
+   - Set diversity hiring goals for leadership positions.
+   - Encourage diverse leadership pipelines by promoting internally.
+
+6. **Inclusive Workplace Policies**
+   - Regularly assess and address gender pay gaps.
+   - Implement awareness and bias training for all employees.
+
+---
+
+## ** Business Impact**
+ **Improved Employee Retention** – Addressing turnover rates among women leads to lower attrition and reduced hiring costs.  
+
+ **Enhanced Workplace Diversity** – A more inclusive workforce fosters innovation and better decision-making.  
+
+ **Higher Employee Engagement** – A fair and transparent promotion process leads to higher motivation and productivity.  
+
+ **Stronger Employer Brand** – Promoting diversity attracts top talent and improves the company’s reputation.  
+
+ **Better Financial Performance** – Studies show diverse leadership teams drive higher profitability and business growth.  
+
+---
+
+
 
 
 
