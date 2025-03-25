@@ -107,6 +107,14 @@ If you’d like to explore my dashboard and interact with the visuals, click her
 
 This dashboard was developed in response to a request from the telecom's Retention Manager to analyze key metrics related to customer loyalty and retention. It visually presents data to predict customer churn and identifies actionable strategies to enhance customer retention.
 
+![image](https://github.com/user-attachments/assets/4e44c7da-3af5-467f-a791-d3a23766a529)
+
+Here is the Dashboard you go 👇
+![image](https://github.com/user-attachments/assets/eeb6939f-4537-4954-8691-b2c179db1490)
+
+![image](https://github.com/user-attachments/assets/1099f149-2eb9-419b-86ab-f873e84771fd)
+
+
 
 
 ---
