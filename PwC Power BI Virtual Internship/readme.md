@@ -271,8 +271,16 @@ Here you go 👇
 
 ---
 
+## **📂 Access the Power BI File**
+If you want the **Power BI file** used in this internship, please check the files I have uploaded above. 📁  
 
+🔗 Feel free to explore, modify, and enhance the dashboard to gain deeper insights into workforce diversity trends, call trends and cutomer retention !  
 
+---
+
+### **🤝 Connect & Collaborate**
+If you have any questions, suggestions, or improvements, feel free to raise an issue or reach out!  
+Happy Analyzing! 
 
 
 
