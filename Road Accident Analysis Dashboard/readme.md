@@ -6,12 +6,12 @@
 This project involves developing an **interactive Road Accident Analysis Dashboard** using **Excel** to analyze accident data for **2021 and 2022**. The dashboard provides key insights into accident casualties, vehicle involvement, and accident trends, enabling data-driven decision-making.
 
 ## 📊 Key Features & Insights  
-- ✅ **Total Casualties:** Displays the total number of casualties across both years.
-- ✅ **Casualty Percentage by Severity:** A visual breakdown of casualties categorized by accident severity.
-- ✅ **Vehicle Involvement:** Highlights the vehicle type with the highest casualties.
-- ✅ **Monthly Casualty Trends:** Compares casualties between the two years on a month-by-month basis.
-- ✅ **Casualties by Road Surface:** Analyzes casualty distribution across different road surfaces.
-- ✅ **Location & Time Analysis:** Examines accident trends based on **urban/rural** areas and **day vs. night** occurrences.
+-  **Total Casualties:** Displays the total number of casualties across both years.
+-  **Casualty Percentage by Severity:** A visual breakdown of casualties categorized by accident severity.
+-  **Vehicle Involvement:** Highlights the vehicle type with the highest casualties.
+-  **Monthly Casualty Trends:** Compares casualties between the two years on a month-by-month basis.
+-  **Casualties by Road Surface:** Analyzes casualty distribution across different road surfaces.
+-  **Location & Time Analysis:** Examines accident trends based on **urban/rural** areas and **day vs. night** occurrences.
 
 ## 🛠️ Project Approach  
 ### 📂 1. Acquiring the Dataset  
