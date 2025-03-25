@@ -66,6 +66,8 @@ Measures
 my final dashboard for first task:
 ![image](https://github.com/user-attachments/assets/a551e3d4-9b3c-4216-b91c-0cacd24f198e)
 
+If you’d like to explore my dashboard and interact with the visuals, click here: PwC Power BI Call Center Trends. I’d love to hear your feedback, so feel free to share your thoughts
+
 ### 📌 Key Findings & Solutions  
 
 ### 1️⃣ Call Answer Rate Needs Improvement  
@@ -98,6 +100,7 @@ my final dashboard for first task:
 ✅ **Better customer service** by reducing unanswered and unresolved calls.  
 ✅ **Higher customer satisfaction** through improved agent efficiency.  
 ✅ **Increased operational efficiency** by optimizing workforce planning.  
+
 
 ---
 
