@@ -2,10 +2,10 @@
 
 ![pngtree-hand-drawn-car-crash-accident-clipart-png-image_6674368](https://github.com/user-attachments/assets/58ed69ae-d3e7-4e55-8d57-30a77fe78814)
 
-## 📌 Project Overview  
+##  Project Overview  
 This project involves developing an **interactive Road Accident Analysis Dashboard** using **Excel** to analyze accident data for **2021 and 2022**. The dashboard provides key insights into accident casualties, vehicle involvement, and accident trends, enabling data-driven decision-making.
 
-## 📊 Key Features & Insights  
+##  Key Features & Insights  
 -  **Total Casualties:** Displays the total number of casualties across both years.
 -  **Casualty Percentage by Severity:** A visual breakdown of casualties categorized by accident severity.
 -  **Vehicle Involvement:** Highlights the vehicle type with the highest casualties.
