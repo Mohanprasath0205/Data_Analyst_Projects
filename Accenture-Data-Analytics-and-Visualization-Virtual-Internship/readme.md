@@ -1,5 +1,8 @@
 # Accenture Virtual Internship - Data Analytics Project Report
 
+![image](https://github.com/user-attachments/assets/ef9db4e5-0647-4211-9b56-c127eb06da81)
+
+
 ## Project Title: Social Buzz Content Analysis
 
 ### Internship Platform: Forage  
@@ -41,6 +44,9 @@ As part of a virtual internship with Accenture through the Forage platform, I wo
 - Established relationships between content categories and user reactions.
 - Created a structured dataset for further analysis.
 
+- ![WhatsApp Image 2025-04-03 at 14 14 38_348df4b8](https://github.com/user-attachments/assets/a0001c1b-e805-4128-9947-bb82751b8be0)
+
+
 ### 4. Data Analysis
 - **Top 5 Performing Categories:** Used **SUMIF** to calculate total reaction scores and identified top categories.
 - **Time-Based Analysis:** Extracted month from timestamps using **TEXT function** and counted post frequency using **COUNTIF**.
@@ -49,6 +55,8 @@ As part of a virtual internship with Accenture through the Forage platform, I wo
 #### Key Findings:
 - The **Animals** category had the highest user engagement.
 - **November 2021** saw the highest number of content posts.
+
+![image](https://github.com/user-attachments/assets/c6dc0058-8d6a-47ae-a215-0965b8e6481d)
 
 ### 5. Presenting Insights to Clients
 - Created a **PowerPoint presentation** to communicate findings.
@@ -60,6 +68,15 @@ As part of a virtual internship with Accenture through the Forage platform, I wo
   - **Key Insights:** Summary of findings.
   - **Visual Representations:** Bar and pie charts for better comprehension.
   - **Conclusion:** Summary of insights and actionable recommendations.
+
+![image](https://github.com/user-attachments/assets/bbf4979a-a99f-42d3-a7ae-009fb73f2209)
+
+![image](https://github.com/user-attachments/assets/17040cd8-244e-4409-8a30-bc8761ae86a2)
+
+![image](https://github.com/user-attachments/assets/6aef1699-fa96-409a-a764-7b98a299c2b6)
+
+![image](https://github.com/user-attachments/assets/8fcd42b2-b94e-426c-b1f4-004239bb61a2)
+
 
 ## Technologies Used
 - **Excel:** Data cleaning, modeling, and analysis (VLOOKUP, SUMIF, COUNTIF functions).
